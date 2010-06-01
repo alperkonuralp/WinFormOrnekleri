@@ -9,9 +9,9 @@ using System.IO;
 
 namespace FileNameRenamer
 {
-    public partial class Form1 : Form
+    public partial class RenamerForm : Form
     {
-        public Form1()
+        public RenamerForm()
         {
             InitializeComponent();
         }

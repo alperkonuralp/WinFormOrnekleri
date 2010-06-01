@@ -1,6 +1,6 @@
 ﻿namespace FileNameRenamer
 {
-    partial class Form1
+    partial class RenamerForm
     {
         /// <summary>
         /// Required designer variable.
