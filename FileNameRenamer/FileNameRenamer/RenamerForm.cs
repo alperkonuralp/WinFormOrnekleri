@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
+using FileNameRenamer.Properties;
 
 namespace FileNameRenamer
 {
@@ -33,24 +34,27 @@ namespace FileNameRenamer
         {
             if (string.IsNullOrEmpty(textBox1.Text.Trim()))
             {
-                MessageBox.Show("Lütfen dizini seçiniz.");
+                MessageBox.Show(Resources.textbox1_Validation);
                 textBox1.Focus();
             }
             if (string.IsNullOrEmpty(textBox2.Text.Trim()))
             {
-                MessageBox.Show("Lütfen aranacak kelime/harf'i giriniz.");
+                MessageBox.Show(Resources.textbox2_Validation);
                 textBox2.Focus();
             }
 
+            tsl.Visible = true;
+            tsl.Text = string.Empty;
             button2.Enabled = false;
             treeView1.Nodes.Clear();
 
-            DirectoryInfo di = new DirectoryInfo(textBox1.Text);
+            var di = new DirectoryInfo(textBox1.Text);
 
             FindFiles(di, null);
 
 
             button2.Enabled = true;
+            tsl.Visible = false;
             treeView1.ExpandAll();
         }
 
@@ -59,6 +63,9 @@ namespace FileNameRenamer
             Application.DoEvents();
 
             var treeNode = new TreeNode(di.Name);
+
+            tsl.Text = string.Format(Resources.FindFile_Text1, di.Name);
+            Application.DoEvents();
 
             if (rootNode == null)
             {
@@ -76,7 +83,10 @@ namespace FileNameRenamer
 
             foreach (var fileInfo in di.GetFiles())
             {
-                string nn =
+                tsl.Text = string.Format(Resources.FindFile_Text2, fileInfo.Name);
+                Application.DoEvents();
+
+                var nn =
                     Path.Combine(
                         fileInfo.DirectoryName,
                         fileInfo.Name.Replace(textBox2.Text, textBox3.Text));

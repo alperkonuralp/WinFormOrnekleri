@@ -114,4 +114,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+	<data name="textbox1_Validation">
+		<value xml:space="preserve">Lütfen dizini seçiniz.</value>
+	</data>
+	<data name="textbox2_Validation">
+		<value><![CDATA[Lütfen aranacak kelime/harf'i giriniz.]]></value>
+	</data>
+	<data name="FindFile_Text1">
+		<value xml:space="preserve">Dizin İnceleniyor : {0}</value>
+	</data>
+	<data name="FindFile_Text2">
+		<value xml:space="preserve">Dosya İnceleniyor : {0}</value>
+	</data>
 </root>
