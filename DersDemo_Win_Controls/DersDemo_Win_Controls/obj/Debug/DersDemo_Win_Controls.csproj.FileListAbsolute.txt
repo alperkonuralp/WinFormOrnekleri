@@ -1,0 +1,8 @@
+C:\DersDemoları\20100502\DersDemo_Win_Controls\DersDemo_Win_Controls\bin\Debug\DersDemo_Win_Controls.exe
+C:\DersDemoları\20100502\DersDemo_Win_Controls\DersDemo_Win_Controls\bin\Debug\DersDemo_Win_Controls.pdb
+C:\DersDemoları\20100502\DersDemo_Win_Controls\DersDemo_Win_Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemoları\20100502\DersDemo_Win_Controls\DersDemo_Win_Controls\obj\Debug\DersDemo_Win_Controls.Form1.resources
+C:\DersDemoları\20100502\DersDemo_Win_Controls\DersDemo_Win_Controls\obj\Debug\DersDemo_Win_Controls.Properties.Resources.resources
+C:\DersDemoları\20100502\DersDemo_Win_Controls\DersDemo_Win_Controls\obj\Debug\DersDemo_Win_Controls.csproj.GenerateResource.Cache
+C:\DersDemoları\20100502\DersDemo_Win_Controls\DersDemo_Win_Controls\obj\Debug\DersDemo_Win_Controls.exe
+C:\DersDemoları\20100502\DersDemo_Win_Controls\DersDemo_Win_Controls\obj\Debug\DersDemo_Win_Controls.pdb

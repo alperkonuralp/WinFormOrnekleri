@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DersDemo_Win_First.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProgramTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">İlk Windows Örneğimiz....</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DersDemo_Win_LayoutManagers", "DersDemo_Win_LayoutManagers\DersDemo_Win_LayoutManagers.csproj", "{37152816-3F42-48DC-B0DE-E6C8911A6BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37152816-3F42-48DC-B0DE-E6C8911A6BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37152816-3F42-48DC-B0DE-E6C8911A6BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37152816-3F42-48DC-B0DE-E6C8911A6BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37152816-3F42-48DC-B0DE-E6C8911A6BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
