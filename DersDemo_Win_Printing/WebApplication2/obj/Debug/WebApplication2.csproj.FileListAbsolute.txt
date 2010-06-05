@@ -1,0 +1,7 @@
+C:\DersDemoları\20100516\DersDemo_Win_Printing\WebApplication2\bin\WebApplication2.dll
+C:\DersDemoları\20100516\DersDemo_Win_Printing\WebApplication2\bin\WebApplication2.pdb
+C:\DersDemoları\20100516\DersDemo_Win_Printing\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemoları\20100516\DersDemo_Win_Printing\WebApplication2\obj\Debug\WebApplication2.dll
+C:\DersDemoları\20100516\DersDemo_Win_Printing\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\DersDemoları\20100516\DersDemo_Win_Printing\WebApplication2\obj\Debug\RdlCompile.cache
+C:\DersDemoları\20100516\DersDemo_Win_Printing\WebApplication2\obj\Debug\RdlCompile.compiled

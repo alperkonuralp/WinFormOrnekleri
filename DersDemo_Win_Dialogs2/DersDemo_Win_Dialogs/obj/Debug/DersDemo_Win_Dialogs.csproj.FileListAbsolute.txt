@@ -1,0 +1,10 @@
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\bin\Debug\DersDemo_Win_Dialogs.exe
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\bin\Debug\DersDemo_Win_Dialogs.pdb
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\obj\Debug\DersDemo_Win_Dialogs.LoginForm.resources
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\obj\Debug\DersDemo_Win_Dialogs.Properties.Resources.resources
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\obj\Debug\DersDemo_Win_Dialogs.csproj.GenerateResource.Cache
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\obj\Debug\DersDemo_Win_Dialogs.exe
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\obj\Debug\DersDemo_Win_Dialogs.pdb
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\obj\Debug\DersDemo_Win_Dialogs.Form1.resources
+C:\DersDemoları\20100516\DersDemo_Win_Dialogs\DersDemo_Win_Dialogs\bin\Debug\DersDemo_Win_Dialogs.exe.config

@@ -1,0 +1,12 @@
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\bin\Debug\DersDemo_Win_Printing.exe.config
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\bin\Debug\DersDemo_Win_Printing.exe
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\bin\Debug\DersDemo_Win_Printing.pdb
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\DersDemo_Win_Printing.Form1.resources
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\DersDemo_Win_Printing.Form2.resources
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\DersDemo_Win_Printing.Properties.Resources.resources
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\DersDemo_Win_Printing.csproj.GenerateResource.Cache
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\RdlCompile.cache
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\RdlCompile.compiled
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\DersDemo_Win_Printing.exe
+C:\DersDemoları\20100516\DersDemo_Win_Printing\DersDemo_Win_Printing\obj\Debug\DersDemo_Win_Printing.pdb
