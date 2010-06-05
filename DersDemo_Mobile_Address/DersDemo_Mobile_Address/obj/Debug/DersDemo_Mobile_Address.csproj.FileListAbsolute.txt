@@ -1,0 +1,14 @@
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\bin\Debug\DersDemo_Mobile_Address.exe
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\bin\Debug\DersDemo_Mobile_Address.pdb
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\bin\Debug\Microsoft.WindowsMobile.Telephony.dll
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\bin\Debug\Microsoft.WindowsMobile.dll
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\bin\Debug\Microsoft.WindowsMobile.xml
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\bin\Debug\Microsoft.WindowsMobile.Telephony.xml
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\obj\Debug\DersDemo_Mobile_Address.Properties.Resources.resources
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\obj\Debug\DersDemo_Mobile_Address.csproj.GenerateResource.Cache
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\obj\Debug\DersDemo_Mobile_Address.exe
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\obj\Debug\DersDemo_Mobile_Address.pdb
+C:\DersDemoları\20100523\DersDemo_Mobile_Address\DersDemo_Mobile_Address\obj\Debug\DersDemo_Mobile_Address.Form1.resources

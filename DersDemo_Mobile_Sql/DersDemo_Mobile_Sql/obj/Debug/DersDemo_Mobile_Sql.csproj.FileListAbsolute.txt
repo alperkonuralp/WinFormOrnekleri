@@ -1,0 +1,9 @@
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\bin\Debug\AdresDefteri.sdf
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\bin\Debug\DersDemo_Mobile_Sql.exe
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\bin\Debug\DersDemo_Mobile_Sql.pdb
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\obj\Debug\DersDemo_Mobile_Sql.Form1.resources
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\obj\Debug\DersDemo_Mobile_Sql.Properties.Resources.resources
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\obj\Debug\DersDemo_Mobile_Sql.csproj.GenerateResource.Cache
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\obj\Debug\DersDemo_Mobile_Sql.exe
+C:\DersDemoları\20100523\DersDemo_Mobile_Sql\DersDemo_Mobile_Sql\obj\Debug\DersDemo_Mobile_Sql.pdb

@@ -1,0 +1,8 @@
+C:\DersDemoları\20100523\DersDemo_Mobile_First\DersDemo_Mobile_First\bin\Debug\DersDemo_Mobile_First.exe
+C:\DersDemoları\20100523\DersDemo_Mobile_First\DersDemo_Mobile_First\bin\Debug\DersDemo_Mobile_First.pdb
+C:\DersDemoları\20100523\DersDemo_Mobile_First\DersDemo_Mobile_First\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemoları\20100523\DersDemo_Mobile_First\DersDemo_Mobile_First\obj\Debug\DersDemo_Mobile_First.Form1.resources
+C:\DersDemoları\20100523\DersDemo_Mobile_First\DersDemo_Mobile_First\obj\Debug\DersDemo_Mobile_First.Properties.Resources.resources
+C:\DersDemoları\20100523\DersDemo_Mobile_First\DersDemo_Mobile_First\obj\Debug\DersDemo_Mobile_First.csproj.GenerateResource.Cache
+C:\DersDemoları\20100523\DersDemo_Mobile_First\DersDemo_Mobile_First\obj\Debug\DersDemo_Mobile_First.exe
+C:\DersDemoları\20100523\DersDemo_Mobile_First\DersDemo_Mobile_First\obj\Debug\DersDemo_Mobile_First.pdb
